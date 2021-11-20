@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+/*Root class and id End*/
+
+
+/*Root col and Row Start*/
+
+.row {
+    width: auto;
+    margin: 0 -15px;
+    display: flow-root;
+    position: relative;
+}
+
+.col-md-1 {
+    width: 8.33%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-md-2 {
+    width: 16.66%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-md-3 {
+    width: 25%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-md-4 {
+    width: 33.33%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-md-5 {
+    width: 41.65%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-md-6 {
+    width: 50%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-md-7 {
+    width: 58.33%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-md-8 {
+    width: 66.67%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-md-9 {
+    width: 75%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.col-md-12 {
+    width: 100%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+
+/*Root col and Row End*/
