@@ -7,11 +7,20 @@
     vertical-align: baseline;
 }
 
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
 
 /*Root class and id End*/
 
 
 /*Root col and Row Start*/
+
+div {
+    display: block;
+}
 
 .row {
     width: auto;
