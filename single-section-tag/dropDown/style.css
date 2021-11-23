@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    background: black;
+}
+
+ul li {
+    padding: 20px 5px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+a:link,
+a:visited {
+    padding: 20px;
+}
+
+a:hover {
+    color: black;
+    background: yellowgreen;
+}
+
+select {
+    color: white;
+    padding: 20px;
+    background: black;
+    border: none;
+}
+
+select:hover {
+    color: black;
+    padding: 20px;
+    background: yellowgreen;
+    border: none;
+}
+
+option {
+    padding: 20px;
+    font-size: 22px;
+}

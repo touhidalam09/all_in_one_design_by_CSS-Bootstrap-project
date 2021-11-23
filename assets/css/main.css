@@ -168,6 +168,8 @@ div {
 .img {
     width: 100%;
     border-radius: 5px;
+    height: 15vw;
+    object-fit: cover;
 }
 
 .card-body {
@@ -176,21 +178,24 @@ div {
 
 .card-title {
     padding: 10px 0px;
+    letter-spacing: 2px;
 }
 
 .card-subtitle {
-    padding: 5px;
+    padding: 8px 4px;
     color: grey;
 }
 
 .card-footer {
-    padding: 10px 0;
+    padding: 16px 0;
 }
 
 .btn {
     cursor: pointer;
+    text-decoration: none;
+    color: black;
     padding: 15px 108px;
-    background-color: tomato;
+    background: linear-gradient( 91.36deg, #00FF77 17.53%, #00D1FF 93.25%);
 }
 
 .btn:not(:hover) {
@@ -201,7 +206,6 @@ div {
     transition: 0.5s;
     border-radius: 5px;
     color: maroon;
-    background: linear-gradient( 91.36deg, #00FF77 17.53%, #00D1FF 93.25%);
 }
 
 
@@ -216,7 +220,7 @@ div {
 }
 
 .copyright {
-    background: linear-gradient( 91.36deg, #00FF77 17.53%, #00D1FF 93.25%);
+    background: linear-gradient( 89.6deg, #35FFE7 12.1%, #EE23C1 102.96%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 25px;
