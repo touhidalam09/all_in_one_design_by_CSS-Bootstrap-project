@@ -1,0 +1,19 @@
+*{
+    color: #fff;
+}
+.bg{
+    background-color: #ff33ff;
+  
+    width: 100%;
+    height: 100vh;
+}
+.form-container{
+    background-color: #5a13ab;
+    margin-top: 150px;
+    padding: 60px 50px;
+    border-radius: 3%;
+    border: 1px solid #5a13ab;
+    -webkit-box-shadow: 3px 9px 186px 21px rgba(34,14,145,1);
+    -moz-box-shadow: 3px 9px 186px 21px rgba(34,14,145,1);
+    box-shadow: 3px 9px 186px 21px rgba(34,14,145,1);
+}
